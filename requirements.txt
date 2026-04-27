@@ -1,0 +1,10 @@
+thinc>=8.3.0
+spacy>=3.8.0
+numpy>=2.0.0
+pyarrow>=14.0.0
+datasets>=2.18.0,<4.0.0
+sentence-transformers==3.0.1
+lancedb==0.10.0
+transformers>=4.40.0
+accelerate
+torch
